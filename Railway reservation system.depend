@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1548775736 source:d:\c project\railway reservation system\railway reservation system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1548775736 d:\c project\railway reservation system\railway reservation system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1554479076 source:d:\c project\railway reservation system\railway reservation system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rlyres.h"
+	"conio2.h"
+	<windows.h>
+
+1554479076 d:\c project\railway reservation system\railway reservation system\rlyres.h
+
+1554554946 source:d:\c project\railway reservation system\railway reservation system\rlyres.c
+	<stdio.h>
+	"conio2.h"
+	"rlyres.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1548775736 source:f:\railway reservation system\railway reservation system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1548775736 f:\railway reservation system\railway reservation system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1554479076 source:f:\railway reservation system\railway reservation system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rlyres.h"
+	"conio2.h"
+	<windows.h>
+
+1554479076 f:\railway reservation system\railway reservation system\rlyres.h
+
+1554554946 source:f:\railway reservation system\railway reservation system\rlyres.c
+	<stdio.h>
+	"conio2.h"
+	"rlyres.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1548775736 source:d:\railway reservation system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1548775736 d:\railway reservation system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1554479076 source:d:\railway reservation system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rlyres.h"
+	"conio2.h"
+	<windows.h>
+
+1554479076 d:\railway reservation system\rlyres.h
+
+1555139192 source:d:\railway reservation system\rlyres.c
+	<stdio.h>
+	"conio2.h"
+	"rlyres.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1548775736 source:d:\new folder (2)\railway reservation system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1548775736 d:\new folder (2)\railway reservation system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1554479076 source:d:\new folder (2)\railway reservation system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rlyres.h"
+	"conio2.h"
+	<windows.h>
+
+1554479076 d:\new folder (2)\railway reservation system\rlyres.h
+
+1555139194 source:d:\new folder (2)\railway reservation system\rlyres.c
+	<stdio.h>
+	"conio2.h"
+	"rlyres.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
